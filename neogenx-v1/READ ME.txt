@@ -1,0 +1,16 @@
+
+
+
+ _   _               ______           
+| \ | |              |  _  \          
+|  \| | _____  ___ __| | | |_____   __
+| . ` |/ _ \ \/ / '__| | | / _ \ \ / /
+| |\  |  __/>  <| |_ | |/ /  __/\ V / 
+\_| \_/\___/_/\_\_(_)|___/ \___| \_/  
+                                      
+                                      
+
+
+This is a program installer called neogenx made by NEXR.DEV
+and this program is made in a batch and uses PowerShell files ps1 files to 
+install those programs i hope you like them this program will be getting updates
